@@ -1,1 +1,3 @@
-# bouncing-ball
+Title: Bouncing ball
+
+Description: The ball burst into motion, its rubbery surface tension releasing in a joyful burst of energy. As it struck the ground, it sprang upward, its trajectory a perfect parabola of kinetic delight. With each successive bounce, the ball seemed to gain vigor, its rebounds growing more exuberant, like a playful leap of excitement. The ball's surface rippled with each impact, a mesmerizing dance of light and shadow. Its motion created a symphony of sound, a rhythmic "thud-thud-thud" that echoed through the air, a celebration of unbridled enthusiasm. As the ball continued its carefree journey, its bounces grew higher and more erratic, an unpredictable path of pure, unadulterated joy."
